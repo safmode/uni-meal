@@ -51,5 +51,14 @@ The UniMeal web application aims to deliver an efficient, user-friendly, and cen
 
 ## 4.0 Entity Relationship Diagram (ERD)
 
+<img src="./images/erddiagram.png" width="60%">
 
+## 5.0 Sequence Diagram 
+
+## 6.0 Mockup
+
+### Login page
+
+
+## 7.0 References
 
