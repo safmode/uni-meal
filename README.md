@@ -60,5 +60,10 @@ The UniMeal web application aims to deliver an efficient, user-friendly, and cen
 ### Login page
 
 
+
+
 ## 7.0 References
 
+Athuraliya, A., & Creately. (2022, December 12). Sequence Diagram Tutorial – Complete Guide with Examples. Creately. https://creately.com/guides/sequence-diagram-tutorial/
+
+WhatisSequenceDiagram?(n.d.).https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
