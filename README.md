@@ -55,11 +55,43 @@ The UniMeal web application aims to deliver an efficient, user-friendly, and cen
 
 ## 5.0 Sequence Diagram 
 
+
 ## 6.0 Mockup
+### Registration Page
+#### Student Registration Page
+<img src="./images/Register page student.png" width="60%">
+
+#### Vendor Registration Page
+<img src="./images/Register vendor.png" width="60%">
 
 ### Login page
+<img src="./images/Login.png" width="60%">
 
+### Homepage
+<img src="./images/homepage.png" width="60%">
 
+### Vendor Dashboard Page
+<img src="./images/vendor dashboard.png" width="60%">
+
+### Food Selection Page
+<img src="./images/food details page.png" width="60%">
+
+### Place Order Page
+<img src="./images/ordering page.png" width="60%">
+
+### Shipping Details Page
+<img src="./images/shipping.png" width="60%">
+
+### Delivery Option Page
+<img src="./images/delivery.png" width="60%">
+
+### Payment Method Page
+<img src="./images/payment 1.png" width="60%">
+<img src="./images/payment 2.png" width="60%">
+
+### Track Order Page
+<img src="./images/order tracking.png" width="60%">
+<img src="./images/order tracking 2.png" width="60%">
 
 
 ## 7.0 References
