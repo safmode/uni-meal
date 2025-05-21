@@ -54,9 +54,9 @@ The UniMeal web application aims to deliver an efficient, user-friendly, and cen
 <img src="./images/erddiagram.png" width="60%">
 
 ## 5.0 Sequence Diagram 
+<img src="./images/sequenced.jpg" width="60%">
 
-
-## 6.0 Mockup
+## 6.0 Mockup (Figma link : https://www.figma.com/design/0xzzvD9iEsLNKpqIGoBAka/UNIMEAL?node-id=210-2&t=xwdXG33riCfDR0uM-1)
 ### Registration Page
 #### Student Registration Page
 <img src="./images/Register page student.png" width="60%">
