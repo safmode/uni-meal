@@ -99,3 +99,41 @@ The UniMeal web application aims to deliver an efficient, user-friendly, and cen
 Athuraliya, A., & Creately. (2022, December 12). Sequence Diagram Tutorial – Complete Guide with Examples. Creately. https://creately.com/guides/sequence-diagram-tutorial/
 
 WhatisSequenceDiagram?(n.d.).https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
+
+# FINAL REPORT
+
+## Project system captured screen and explaination
+
+
+## What is the challenge/difficulties to develop the application
+
+1. __System Integration Challenges__
+      - Multiple user roles (student, vendor, admin) require separate dashboards and permissions.
+      - Synchronizing modules (e.g. order → shipping → payment) needs careful planning to avoid data                mismatches or delays.
+        
+2. __Backend & Database Complexity__
+      - Ensuring relational database structure is normalized and scalable.
+      - Preventing data redundancy and maintaining consistency across modules.
+        
+3. __Security & Authentication__
+      - Ensuring secure login/registration (especially for payment-related pages).
+        
+4. __User Interface & Experience (UI/UX)__
+      - Making sure the UI is responsive across devices.
+      - Ensuring the checkout flow is smooth (especially for payment).
+      - Preventing user drop-off due to confusing layouts or form overload.
+        
+5. __Testing & Bug Fixing__
+      - Testing all edge cases.
+      - Ensuring form validations work as expected.
+      - Testing across browsers and devices for layout consistency.
+        
+6. __Team Collaboration & Coordination__
+      - Merging code and avoiding Git conflicts when multiple people are working simultaneously.
+        
+7. __Time & Resource Constraints__
+      - Limited time to finish features for each team member.
+      - Balancing between design, coding, and testing phases
+
+
+
