@@ -112,21 +112,20 @@ This screenshot captures the Login Page for the UNIMEAL web application. It serv
 1. __The Login Form__
    
    On your left is the login form, this is the functional part of the page, designed for user interaction:
-   - __Credentials Input__: Standard fields are provided for the user to enter their email and password.                                The password field correctly masks the input for security.
-   - __Convenience Features__: A "Remember me" checkbox is available to keep the user logged in, and a                                     "Forgot Password?" link provides a way to recover a lost account.
-   - __Primary Action__: The large pink "LOG IN" button is the main call-to-action for users to submit                               their credentials.
+   - __Credentials Input__: Standard fields are provided for the user to enter their email and password. The password field correctly masks the input for security.
+   - __Convenience Features__: A "Remember me" checkbox is available to keep the user logged in, and a "Forgot Password?" link provides a way to recover a lost account.
+   - __Primary Action__: The large pink "LOG IN" button is the main call-to-action for users to submit their credentials.
    - __User Role Distinction__: Crucially, the page provides two distinct paths for new users:
          - __Create an account__: This is for the primary user type, likely the students.
-         - __Register as Vendor__: This separate button indicates that the system supports multiple user                                       roles, allowing cafeteria owners (vendors) to register and access a                                         different part of the application (like their dashboard).
+         - __Register as Vendor__: This separate button indicates that the system supports multiple user roles, allowing cafeteria owners (vendors) to register and access a different part                                     of the application (like their dashboard).
 
 2. __Branding and Value Proposition__
    
-   On the right is the brand and value proposition, this section communicates the application's identity       and purpose:
-     - __Slogan__: The catchy tagline, "Skip the Line, Not the Meal!!!", clearly and effectively                               communicates the core benefit of using UNIMEAL—convenience and time-saving.
-     - __Logo__: The creative logo, featuring a burger wearing a graduation cap, cleverly targets its                        university student audience while representing its food-service nature.
+   On the right is the brand and value proposition, this section communicates the application's identity and purpose:
+     - __Slogan__: The catchy tagline, "Skip the Line, Not the Meal!!!", clearly and effectively communicates the core benefit of using UNIMEAL—convenience and time-saving.
+     - __Logo__: The creative logo, featuring a burger wearing a graduation cap, cleverly targets its university student audience while representing its food-service nature.
      
      
-
 ### Registration Page
 #### Student Registration Page
 <img src="./images/register.jpg" width="60%">
@@ -146,19 +145,44 @@ This screenshot shows the Student Registration Page for the UNIMEAL application.
            -  __Terms and Conditions__: An "Accept terms and conditions" checkbox is included, which is a standard practice for legal compliance and user agreement.
            -  __Primary Action__: A prominent pink "REGISTER" button prompts the user to complete the process.
    
+2. __Branding and Value Proposition__
+   
+   On the right is the brand and value proposition, this section communicates the application's identity and purpose:
+     - __Slogan__: The tagline "Skip the Line, Not the Meal!!!" is displayed again, connecting the registration process with the core benefit of the app.
+     - __Logo__: The UNIMEAL logo with the graduation-cap-wearing burger is present, maintaining visual consistency and appeal to the target audience.
+
 
 #### Vendor Registration Page
 <img src="./images/Register vendor.png" width="60%">
 
+This screenshot displays the Vendor Registration Page for the UNIMEAL platform. This is a dedicated portal for cafeteria owners or managers to create their business accounts, separate from the student users.
 
 
-### Homepage
-<img src="./images/homepage.png" width="60%">
+### Cafeteria & Menu Browsing Page
+<img src="./images/hp1.jpg" width="60%">
+<img src="./images/hp2.jpg" width="60%">
+
+This composite image shows the Student Homepage / Dashboard of the UNIMEAL application, which is the main landing page a student sees after successfully logging in. It's designed to be a central hub for navigating the app's features.
+
+1. The Welcome and Promotion Section
+   This is the "above the fold" content, designed to welcome the user and present key information immediately.
+
+   - __Personalized Header__: A warm greeting, "Welcome to UniMeal, Abduh," personalizes the experience and confirms the user is logged in. Essential action buttons, "Track My Orders" and "Logout," are prominently displayed for easy access.
+   - __Hero Section__: This visually engaging area uses a large graphic and bold text to communicate the app's value proposition:
+      - "UNIMEALING is more Personalised & Instant."
+      - It also includes a call-to-action to download a mobile app from the App Store and Google Play, suggesting a broader ecosystem beyond the web application. The arrows on the sides indicate this might be a rotating carousel for promotions or features.
+
+2. Food and Cafeteria Selection
+   This section provides the core functionality, allowing the user to begin the ordering process.
+   - __UniMeal Popular Categories__: This feature helps with food discovery by showcasing popular food types like Drinks, Pizza, Mee, Nasi, and Soup. It allows users to browse by food preference first, rather than by cafeteria, offering a flexible way to find what they want to eat.
+   - __Select Your Mahallah Cafeteria__: This is the primary navigation hub of the application. It presents a clear, grid-based list of available cafeterias on campus such as Siddiq Cafeteria, Aminah Cafeteria, Ruqayyah Cafeteria and many more. Each cafeteria is represented by its official logo and name, making it easy for students to recognize and select their desired dining location to start ordering.
 
 ### Vendor Dashboard Page
-<img src="./images/vendor dashboard.png" width="60%">
+<img src="./images/hp2.jpg" width="60%">
 
-### Food Selection Page
+
+
+### Food Ordering System Page
 <img src="./images/food details page.png" width="60%">
 
 ### Place Order Page
