@@ -105,7 +105,7 @@ WhatisSequenceDiagram?(n.d.).https://www.visual-paradigm.com/guide/uml-unified-m
 
 # FINAL REPORT
 
-## Project system captured screen and explaination
+## 8.0 Project system captured screen and explaination
 
 ### Login page
 <img src="./images/login page.jpg" width="60%">
@@ -261,7 +261,7 @@ This screenshot displays the Order History page of the UNIMEAL application. This
 
 
 
-## What is the challenge/difficulties to develop the application
+## 9.0 What is the challenge/difficulties to develop the application
 
 1. __System Integration Challenges__
       - Multiple user roles (student, vendor, admin) require separate dashboards and permissions.
