@@ -110,7 +110,7 @@ WhatisSequenceDiagram?(n.d.).https://www.visual-paradigm.com/guide/uml-unified-m
 This screenshot captures the Login Page for the UNIMEAL web application. It serves as the primary gateway for existing users to access their accounts. The page is cleanly divided into two main sections:
 
 1. The Login Form (The left side)
- This is the functional part of the page, designed for user interaction:
+   This is the functional part of the page, designed for user interaction:
    - Credentials Input: Standard fields are provided for the user to enter their email and password. The         password field correctly masks the input for security.
    - Convenience Features: A "Remember me" checkbox is available to keep the user logged in, and a "Forgot       Password?" link provides a way to recover a lost account.
    - Primary Action: The large pink "LOG IN" button is the main call-to-action for users to submit their         credentials.
