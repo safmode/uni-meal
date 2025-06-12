@@ -109,17 +109,17 @@ WhatisSequenceDiagram?(n.d.).https://www.visual-paradigm.com/guide/uml-unified-m
 
 This screenshot captures the Login Page for the UNIMEAL web application. It serves as the primary gateway for existing users to access their accounts. The page is cleanly divided into two main sections:
 
-1. The Login Form
+1. __The Login Form__
    
    On your left is the login form, this is the functional part of the page, designed for user interaction:
-   - Credentials Input: Standard fields are provided for the user to enter their email and password. The         password field correctly masks the input for security.
-   - Convenience Features: A "Remember me" checkbox is available to keep the user logged in, and a "Forgot       Password?" link provides a way to recover a lost account.
-   - Primary Action: The large pink "LOG IN" button is the main call-to-action for users to submit their         credentials.
-   - User Role Distinction: Crucially, the page provides two distinct paths for new users:
+   - __Credentials Input__: Standard fields are provided for the user to enter their email and password.                                The password field correctly masks the input for security.
+   - __Convenience Features__: A "Remember me" checkbox is available to keep the user logged in, and a                                     "Forgot Password?" link provides a way to recover a lost account.
+   - __Primary Action__: The large pink "LOG IN" button is the main call-to-action for users to submit                               their credentials.
+   - __User Role Distinction__: Crucially, the page provides two distinct paths for new users:
          - __Create an account__: This is for the primary user type, likely the students.
          - __Register as Vendor__: This separate button indicates that the system supports multiple user                                       roles, allowing cafeteria owners (vendors) to register and access a                                         different part of the application (like their dashboard).
 
-2. Branding and Value Proposition
+2. __Branding and Value Proposition__
    
    On the right is the brand and value proposition, this section communicates the application's identity       and purpose:
      - __Slogan__: The catchy tagline, "Skip the Line, Not the Meal!!!", clearly and effectively                               communicates the core benefit of using UNIMEAL—convenience and time-saving.
