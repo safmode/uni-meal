@@ -156,11 +156,16 @@ This screenshot shows the Student Registration Page for the UNIMEAL application.
 
 
 #### Vendor Registration Page
-<img src="./images/.png" width="60%">
-
-_Nothing is here, please insert the photosss_
+<img src="./images/vendor_register.png" width="60%">
 
 This screenshot displays the Vendor Registration Page for the UNIMEAL platform. This is a dedicated portal for cafeteria owners or managers to create their business accounts, separate from the student users.
+
+1.**Key Features and Design**:
+   - **Clear and Focused Title**: The heading "Register as Vendor" immediately informs the user about the page's purpose, ensuring that cafeteria owners are on the correct registration path.
+   - **Essential Information Fields**: The form is streamlined to collect only the necessary details for a vendor account:
+      - **Name**: This field is intended for the name of the cafeteria itself (e.g., "Mahallah Aminah"), which will be displayed to students on the platform.
+      - **Email**: The primary contact and login credential for the vendor.
+      - **Password**: Standard fields for secure account creation.
 
 
 ### Cafeteria & Menu Browsing Page
@@ -183,17 +188,37 @@ This composite image shows the Student Homepage / Dashboard of the UNIMEAL appli
    - __Select Your Mahallah Cafeteria__: This is the primary navigation hub of the application. It presents a clear, grid-based list of available cafeterias on campus such as Siddiq Cafeteria, Aminah Cafeteria, Ruqayyah Cafeteria and many more. Each cafeteria is represented by its official logo and name, making it easy for students to recognize and select their desired dining location to start ordering.
 
 ### Vendor Dashboard Page
-<img src="./images/.jpg" width="60%">
+<img src="./images/vendor_dashboard.png" width="60%">
 
-_Nothing is here, please insert the photosss_
+_Nothing is here, please insert something here_
 
 ### Food Ordering System Page
-<img src="./images/.png" width="60%">
+<img src="./images/food_menu.png" width="60%">
+<img src="./images/food_menu(1).png" width="60%">
 
-_Nothing is here, please insert the photosss_
+This composite screenshot shows the Cafeteria Menu Page for "Aminah Cafeteria" within the UNIMEAL application. This is the central interface where a student browses the available food and drink items from a specific vendor and adds them to their order. 
+
+1. **Key Components of the Page**:
+   - **Header and Navigation**:
+      - The page has a clear header that displays the name of the selected cafeteria, "Aminah Cafeteria," so the user knows exactly where they are ordering from.
+      - It includes essential navigation buttons: a "Back to Home" link to return to the main dashboard and a "View Cart" button to proceed to the next step of the ordering process.
+
+   - **Search Functionality**:
+      - A prominent search bar is provided to help users quickly find specific items. The placeholder text, "Search category (e.g., nasi, mee, drinks)", guides the user on how to filter the menu effectively, which is particularly useful for cafeterias with extensive offerings.
+
+   - **The Menu Display**:
+      - The core of the page is the Menu, presented in a clean, visually-driven, card-based grid layout.
+      - Each card represents a single menu item and contains all the necessary information for the user to make a decision:
+         - **Food Image**: A clear, appealing picture of the dish or drink.
+         - **Item Name**: The name of the food (e.g., Teh Tarik, Mee Goreng, Nasi Lemak).
+         - **Category**: Helps organize the menu and provides context (e.g., Drinks, Mee, Nasi).
+         - **Price**: Clearly displayed in Malaysian Ringgit (RM).
+         - **Add to Cart Button**: A simple, one-click action for the user to add the item to their order.
+     
 
 
 ### Payment Integration Page
+<img src="./images/food_cart.png" width="60%">
 <img src="./images/shipping.jpg" width="60%">
 <img src="./images/delivery.jpg" width="60%">
 <img src="./images/payment.jpg" width="60%">
