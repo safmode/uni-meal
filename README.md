@@ -100,6 +100,9 @@ Athuraliya, A., & Creately. (2022, December 12). Sequence Diagram Tutorial – C
 
 WhatisSequenceDiagram?(n.d.).https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
 
+</br> 
+</br>
+
 # FINAL REPORT
 
 ## Project system captured screen and explaination
