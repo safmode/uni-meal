@@ -199,55 +199,64 @@ _Nothing is here, please insert the photosss_
 This series of screenshots captures the entire checkout and ordering process for the UNIMEAL application. It's a well-structured, multi-step flow that guides the user from their shopping cart to a final order confirmation.
 
 1. __The Shopping Cart__
+
    This is the first step where the user reviews their selections.
       - __Item Review__: The user can see the items they've added ("Milo Ais"), along with the price and a picture.
       - __Quantity Control__: Users can adjust the quantity of an item or remove it entirely.
       - __Order Summary__: A clear "Total Amount" is displayed.
       - __Call to Action__: The "Proceed to Checkout" button moves the user to the next stage.
      
-2. __Checkout - Shipping Information__
+3. __Checkout - Shipping Information__
+
    This is the first page of the formal checkout process.
       - __Progress Tracker__: A visual tracker ("Shipping — Delivery — Payment") shows the user their current stage and what's next.
       - __Persistent Order Summary__: A detailed summary is fixed on the left, showing the itemized list, subtotal, taxes, and any fees. This summary updates dynamically as the user makes selections. It also includes a field for Discount Codes.
       - __Information Form__: The main section on the right asks for the user's Shipping Information (name, phone number, address).
 
-3. Checkout - Delivery Options
+4. __Checkout - Delivery Options__
+
    After providing their details, the user selects how they want to receive their order.
      - __Progress Update__: The tracker now highlights "Delivery."
      - __Choice of Options__: The user is presented with multiple Delivery Options, each with a different timeframe and associated cost. For example, "Pick Up" is free, while faster delivery options have an added fee).
      - __Dynamic Cost__: Selecting an option with a fee will update the "Shipping Fee" and "Total" in the order summary.
        
-4. Checkout - Payment Method (/payment)
-   This is the final step before confirming the order.
-     - Progress Update: The tracker highlights "Payment."
-     - Updated Order Summary: The total on the left now reflects the delivery fee chosen in the previous step (Total is now RM7.66).
-     - Payment Selection: The user can choose from various Payment Methods, such as "Pay on Delivery," "Credit/Debit Cards," or "Direct Bank Transfer."
-     - Final Action: The "Place Order" button submits the order for processing.
+5. **Checkout - Payment Method** 
 
-5. Order Confirmation / Receipt
+   This is the final step before confirming the order.
+     - **Progress Update**: The tracker highlights "Payment."
+     - **Updated Order Summary**: The total on the left now reflects the delivery fee chosen in the previous step (Total is now RM7.66).
+     - **Payment Selection**: The user can choose from various Payment Methods, such as "Pay on Delivery," "Credit/Debit Cards," or "Direct Bank Transfer."
+     - **Final Action**: The "Place Order" button submits the order for processing.
+
+6. **Order Confirmation / Receipt**
      - This final screen confirms that the order was successful.
-     - Confirmation Message: A clear "Order Confirmed!" message assures the user their order has been received.
-     - Complete Order Details: It provides a comprehensive receipt, including:
-        - Order ID and Status ("Pending"). ○ The selected Delivery and Payment methods.
-        - The user's Shipping Information. ○ An itemized list of what was ordered.
+     - **Confirmation Message**: A clear "Order Confirmed!" message assures the user their order has been received.
+     - **Complete Order Details**: It provides a comprehensive receipt, including:
+        - Order ID and Status ("Pending").
+        - The selected Delivery and Payment methods.
+        - The user's Shipping Information.
+        - An itemized list of what was ordered.
         - A final, detailed cost summary.
 
-### Place Order Page
-<img src="./images/ordering page.png" width="60%">
+### Order Tracking Page
+<img src="./images/track order.jpg" width="60%">
 
-### Shipping Details Page
-<img src="./images/shipping.png" width="60%">
+This screenshot displays the Order History page of the UNIMEAL application. This is where a user can view and track all of their past and current orders. 
 
-### Delivery Option Page
-<img src="./images/delivery.png" width="60%">
+- **Key Features of the Page**: Centralized Order List: The page presents a clear, chronological list of all orders placed by the user (e.g., "Order #2", "Order #1"). Each order is contained within its own distinct card, making the information easy to read and differentiate.
 
-### Payment Method Page
-<img src="./images/payment 1.png" width="60%">
-<img src="./images/payment 2.png" width="60%">
+- **At-a-Glance Order Summary**: Each order card provides a concise summary of the most important details:
+   - **Order Number**: A unique identifier for the transaction.
+   - **Total Cost**: The final price paid for the order.
+   - **Date and Time**: When the order was placed.
+   - **Delivery and Payment Method**: Confirms how the order will be received and was paid for (e.g., "Delivery: Pick Up," "Payment: Cash").
 
-### Track Order Page
-<img src="./images/order tracking.png" width="60%">
-<img src="./images/order tracking 2.png" width="60%">
+- **Visual Status Tracker**:
+   - The most prominent feature is the graphical progress bar that visually tracks the status of each order.
+   - It shows three key stages: Confirmed → In Progress → Delivered.
+   - The current stage is highlighted (in pink), while future stages are greyed out. This allows the user to instantly understand the live status of their order without having to read through text. In this example, both orders are "Confirmed" but have not yet moved to the "In Progress" stage.
+
+
 
 ## What is the challenge/difficulties to develop the application
 
