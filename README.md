@@ -129,7 +129,23 @@ This screenshot captures the Login Page for the UNIMEAL web application. It serv
 
 ### Registration Page
 #### Student Registration Page
-<img src="./images/Register page student.png" width="60%">
+<img src="./images/register.jpg" width="60%">
+
+This screenshot shows the Student Registration Page for the UNIMEAL application. It is the entry point for new students who want to create an account. The page maintains a consistent two-column layout, similar to the login screen:
+
+1. __The Registration Form__
+
+   On the left side, the form is designed to collect the essential information needed to create a student      account:
+
+     -  __Header__: It is clearly labeled "Create your Student Account" to avoid any confusion.
+     -  __Input Fields__: The form requests specific details from the student:
+            - __Student/Matric Number__: This unique identifier is crucial for verifying the user as a                                               student within the university system.
+            - __Name__: A standard field for the username.
+            - __Email Address__: Used for account verification, login and receiving notifications/
+            - __Password and Password Confirmation__: Two fields for the password ensure the user enters                                                          their intended password correctly, reducing errors.
+            - __Terms and Conditions__: An "Accept terms an conditions" checkbox is included, which is a                                            standard practice for legal compliance and user agreement.
+            - __Primary Action__: A prominent pink "REGISTER" button prompts the user to complete the                                         process.
+   
 
 #### Vendor Registration Page
 <img src="./images/Register vendor.png" width="60%">
