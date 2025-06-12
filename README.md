@@ -139,12 +139,13 @@ This screenshot shows the Student Registration Page for the UNIMEAL application.
 
      -  __Header__: It is clearly labeled "Create your Student Account" to avoid any confusion.
      -  __Input Fields__: The form requests specific details from the student:
-            - __Student/Matric Number__: This unique identifier is crucial for verifying the user as a                                               student within the university system.
-            - __Name__: A standard field for the username.
-            - __Email Address__: Used for account verification, login and receiving notifications/
+            - __Student/Matric Number__: This unique identifier is crucial for verifying the user as a student within the university system.
+            - __Name__: A standard field for the user's name or username.
+            - __Email Address__: Used for account verification, login, and receiving notifications.
             - __Password and Password Confirmation__: Two fields for the password ensure the user enters                                                          their intended password correctly, reducing errors.
-            - __Terms and Conditions__: An "Accept terms an conditions" checkbox is included, which is a                                            standard practice for legal compliance and user agreement.
+            - __Terms and Conditions__: An "Accept terms and conditions" checkbox is included, which is a                                           standard practice for legal compliance and user agreement.
             - __Primary Action__: A prominent pink "REGISTER" button prompts the user to complete the                                         process.
+        
    
 
 #### Vendor Registration Page
