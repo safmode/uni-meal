@@ -161,8 +161,8 @@ This screenshot displays the Vendor Registration Page for the UNIMEAL platform. 
 
 
 ### Cafeteria & Menu Browsing Page
-<img src="./images/hp1.jpg" width="60%">
-<img src="./images/hp2.jpg" width="60%">
+<img src="./images/hp 1.jpg" width="60%">
+<img src="./images/hp 2.jpg" width="60%">
 
 This composite image shows the Student Homepage / Dashboard of the UNIMEAL application, which is the main landing page a student sees after successfully logging in. It's designed to be a central hub for navigating the app's features.
 
