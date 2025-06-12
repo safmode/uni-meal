@@ -104,6 +104,50 @@ WhatisSequenceDiagram?(n.d.).https://www.visual-paradigm.com/guide/uml-unified-m
 
 ## Project system captured screen and explaination
 
+### Login page
+<img src="./images/login page.png" width="60%">
+
+This screenshot captures the Login Page for the UNIMEAL web application. It serves as the primary gateway for existing users to access their accounts. The page is cleanly divided into two main sections:
+
+1. The Login Form (Left Side) This is the functional part of the page, designed for user interaction:
+   - Credentials Input: Standard fields are provided for the user to enter their email and password. The         password field correctly masks the input for security.
+   - Convenience Features: A "Remember me" checkbox is available to keep the user logged in, and a "Forgot       Password?" link provides a way to recover a lost account.
+   - Primary Action: The large pink "LOG IN" button is the main call-to-action for users to submit their         credentials.
+
+### Registration Page
+#### Student Registration Page
+<img src="./images/Register page student.png" width="60%">
+
+#### Vendor Registration Page
+<img src="./images/Register vendor.png" width="60%">
+
+
+
+### Homepage
+<img src="./images/homepage.png" width="60%">
+
+### Vendor Dashboard Page
+<img src="./images/vendor dashboard.png" width="60%">
+
+### Food Selection Page
+<img src="./images/food details page.png" width="60%">
+
+### Place Order Page
+<img src="./images/ordering page.png" width="60%">
+
+### Shipping Details Page
+<img src="./images/shipping.png" width="60%">
+
+### Delivery Option Page
+<img src="./images/delivery.png" width="60%">
+
+### Payment Method Page
+<img src="./images/payment 1.png" width="60%">
+<img src="./images/payment 2.png" width="60%">
+
+### Track Order Page
+<img src="./images/order tracking.png" width="60%">
+<img src="./images/order tracking 2.png" width="60%">
 
 ## What is the challenge/difficulties to develop the application
 
