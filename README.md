@@ -153,7 +153,9 @@ This screenshot shows the Student Registration Page for the UNIMEAL application.
 
 
 #### Vendor Registration Page
-<img src="./images/Register vendor.png" width="60%">
+<img src="./images/.png" width="60%">
+
+_Nothing is here, please insert the photosss_
 
 This screenshot displays the Vendor Registration Page for the UNIMEAL platform. This is a dedicated portal for cafeteria owners or managers to create their business accounts, separate from the student users.
 
@@ -178,12 +180,37 @@ This composite image shows the Student Homepage / Dashboard of the UNIMEAL appli
    - __Select Your Mahallah Cafeteria__: This is the primary navigation hub of the application. It presents a clear, grid-based list of available cafeterias on campus such as Siddiq Cafeteria, Aminah Cafeteria, Ruqayyah Cafeteria and many more. Each cafeteria is represented by its official logo and name, making it easy for students to recognize and select their desired dining location to start ordering.
 
 ### Vendor Dashboard Page
-<img src="./images/hp2.jpg" width="60%">
+<img src="./images/.jpg" width="60%">
 
-
+_Nothing is here, please insert the photosss_
 
 ### Food Ordering System Page
-<img src="./images/food details page.png" width="60%">
+<img src="./images/.png" width="60%">
+
+_Nothing is here, please insert the photosss_
+
+
+### Payment Integration Page
+<img src="./images/shipping.jpg" width="60%">
+<img src="./images/delivery.jpg" width="60%">
+<img src="./images/payment.jpg" width="60%">
+<img src="./images/payment 1.jpg" width="60%">
+
+This series of screenshots captures the entire checkout and ordering process for the UNIMEAL application. It's a well-structured, multi-step flow that guides the user from their shopping cart to a final order confirmation.
+
+1. The Shopping Cart (/cart)
+   This is the first step where the user reviews their selections.
+      - __Item Review__: The user can see the items they've added ("Milo Ais"), along with the price and a picture.
+      - __Quantity Control__: Users can adjust the quantity of an item or remove it entirely.
+      - __Order Summary__: A clear "Total Amount" is displayed.
+      - __Call to Action__: The "Proceed to Checkout" button moves the user to the next stage.
+     
+3. Checkout - Shipping Information.
+   This is the first page of the formal checkout process.
+      - __Progress Tracker__: A visual tracker ("Shipping — Delivery — Payment") shows the user their current stage and what's next.
+      - __Persistent Order Summary__: A detailed summary is fixed on the left, showing the itemized list, subtotal, taxes, and any fees. This summary updates dynamically as the user makes selections. It also includes a field for Discount Codes.
+      - __Information Form__: The main section on the right asks for the user's Shipping Information (name, phone number, address).
+
 
 ### Place Order Page
 <img src="./images/ordering page.png" width="60%">
