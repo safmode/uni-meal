@@ -190,7 +190,27 @@ This composite image shows the Student Homepage / Dashboard of the UNIMEAL appli
 ### Vendor Dashboard Page
 <img src="./images/vendor_dashboard.png" width="60%">
 
-_Nothing is here, please insert something here_
+The screenshot of Vendor Dashboard Page serves as the central hub for vendors registered in the UniMeal system. It is designed to provide quick access to key tools and information relevant to managing their food service operations within the platform.
+
+1. **Key Components of the Page**:
+- **Welcome Banner**:
+   - Displays a visually engaging banner promoting the UniMeal platform.
+   - Highlights app availability on Google Play and App Store.
+   - Branding slogan “UniMeal-ing is more” with a focus on personalized and instant service.
+   - Targeted toward vendors to encourage participation and usage of the system.
+
+- **User Greeting & Logout**:
+   - Shows a personalized welcome message with the vendor's name (e.g., “Welcome, Mahallah Ameenah”).
+   - Logout option for secure session management.
+
+- **Future Functionalities (to be included)**:
+   -Menu management (add/edit/delete food items)
+   - Order tracking and status updates
+   - Sales analytics and performance metrics
+   - Notifications and announcements
+   - Access to customer feedback or reviews
+
+
 
 ### Food Ordering System Page
 <img src="./images/food_menu.png" width="60%">
