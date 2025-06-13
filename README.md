@@ -204,7 +204,7 @@ The screenshot of Vendor Dashboard Page serves as the central hub for vendors re
    - Logout option for secure session management.
 
 - **Future Functionalities (to be included)**:
-   -Menu management (add/edit/delete food items)
+   - Menu management (add/edit/delete food items)
    - Order tracking and status updates
    - Sales analytics and performance metrics
    - Notifications and announcements
